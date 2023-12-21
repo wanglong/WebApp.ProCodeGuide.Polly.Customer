@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XFt7rtfWQMCQm/0hKVt6H2ik70dIkpniu0DFDucrpf3bX09WIp5j3vTWbVLlDiwWyP6cD0ETs6VjaM88D3+Qg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\My\\WebApp.ProCodeGuide.Polly.Customer\\WebApp.ProCodeGuide.Polly.Customer\\WebApp.ProCodeGuide.Polly.Customer.csproj",
+  "expectedPackageFiles": [
+    "D:\\NuGetPackages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\NuGetPackages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "D:\\NuGetPackages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "D:\\NuGetPackages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "D:\\NuGetPackages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

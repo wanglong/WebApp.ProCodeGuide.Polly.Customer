@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApp.ProCodeGuide.Polly.Customer.props" />
+</Project>
